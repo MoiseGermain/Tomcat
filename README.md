@@ -1,2 +1,2 @@
 # Tomcat
-Tomcat package instalation
+Tomcat package installation
