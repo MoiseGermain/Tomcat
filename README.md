@@ -22,7 +22,7 @@
 </dl>
 
 
-<h1> Install Tomcat version 9.0.69 </h1>
+<h1> Install Tomcat version 10.1.7 </h1>
 <h3> Download and extract the tomcat server </h3>
 <dl> sudo wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.7/bin/apache-tomcat-10.1.7.tar.gz
 <dd> sudo tar -xvf apache-tomcat-10.1.7.tar.gz </dd>
